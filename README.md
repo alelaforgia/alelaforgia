@@ -1,3 +1,6 @@
+<h1>Hi, I'm Alessandro, an <a href="https://linkedin.com/in/alessandro-laforgia">IT Professional</a>☺</h1>
+<h2>👨‍💻 Information Technology Projects:</h2>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
